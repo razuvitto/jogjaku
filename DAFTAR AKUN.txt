@@ -1,0 +1,24 @@
+Daftar Akun
+
+Email		: admin@jogjaku.com
+Password 	: admin
+Role		: admin
+
+Email		: user@jogjaku.com
+Password 	: user
+Role		: user
+
+Email		: Vitto@jogjaku.com
+Password 	: Nasigoreng
+Role		: user
+
+Email		: Simsi@jogjaku
+Password 	: simsi
+Role		: user
+
+Email		: Syah@jogjaku.com
+Password 	: syah
+Role		: user
+
+
+
